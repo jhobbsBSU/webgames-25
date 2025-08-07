@@ -1,0 +1,116 @@
+/* @theme webgames */
+
+@import 'gaia';
+
+:root {
+    --color-background: #fff;
+    color: #272838;
+}
+
+
+h1{
+    margin-bottom: 50px;
+}
+
+p, ul li{
+    font-size: 32px;
+}
+li::marker{
+    color: #F5C014 ;
+}
+
+li li{
+    font-size: 28px;
+}
+
+
+img[src*='#ico-right']{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 10%;
+}
+
+img[src*='#right']{
+    position: relative !important;
+    float:right;
+    margin-left: 30px;
+}
+img[src*='#large']{ 
+    width: 75%; 
+    display: block;
+    margin: 20px auto;
+}
+video{
+    display: block;
+    margin: 50px auto;
+    width: 90%;
+}
+section.main{
+    background: linear-gradient(135deg, #ffc918 20%, transparent 20%, transparent 80%, #ffc918 80%),linear-gradient(45deg, #ffc918 40%, #F5C014 40%, #F5C014 60%, #F5C014 60%, #ffc918 60%) , linear-gradient(135deg, #ffc918 20%, #F5C014 20%, #F5C014 80%, #ffc918 80%);
+    background-size: 2em 2em;
+    background-color: #ffc918;
+    opacity: 1
+}
+section.lead{
+    background: linear-gradient(45deg, #ffc918 20%, transparent 20%, transparent 80%, #ffc918 80%),linear-gradient(135deg, #ffc918 40%, #F5C014 40%, #F5C014 60%, #F5C014 60%, #ffc918 60%) , linear-gradient(45deg, #ffc918 20%, #F5C014 20%, #F5C014 80%, #ffc918 80%);
+   
+}
+section.main, section.lead{
+    background-size: 2em 2em;
+    background-color: #ffc918;
+    opacity: 1
+}
+
+section.main h1, section.lead h1{
+    font-size: 88px;
+}
+
+section.main, section.break {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section.break{
+    align-items: center;
+    background: #FFF;
+}
+section.break h1{
+    font-size: 250px;
+    color: #F5C014;
+}
+section.question{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(110deg, #272838 65%, #FFF 60%);
+}
+section.question h1{
+    font-size: 70px;
+    color: #F5C014;
+}
+section.break{
+    justify-content: center;
+}
+
+section.threes{
+    columns: 3;
+    display: block;
+}
+ section.twos{
+    columns: 2;
+    display: block;
+}
+
+section.threes h1, section.twos h1{
+    column-span: all;
+}
+
+section.threes h2, section.twos h2{
+    break-before: column;
+    font-size: 28px;
+}
+
+section.threes p, section.twos p, section.threes ul li, section.twos ul li{
+    font-size: 24px;
+}
