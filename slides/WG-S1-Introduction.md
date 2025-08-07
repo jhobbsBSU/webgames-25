@@ -15,16 +15,6 @@ Welcome to Web Games!
 -->
 
 ---
-# ASFF - Field Trip
-
-The 14th annual BAFTA-Qualifying festival runs in-person from 6-10 November in York and online from 6-30 November with a program of screenings and events including networking opportunities and workshops.
-
-We are exploring the possibility of running a field trip and require expressions of interest to determine viability. If you are interested please complete this form:
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=U2ZwI1fNBEWaWQlgJR20sKpT_ar9WvdDn3AR0fdN-7xURDVYUjdINFYyU05WSDJOMlVQNEw5TEQwQS4u
-
-
----
 
 ![](../assets/icons/task-list.png#ico-right)
 # Objectives
@@ -90,7 +80,7 @@ This module has two assessments
 # S1: Contextualising Statement
 A 1,000 - 1,500 word written statement that contextualises your proposed web games prototype project against the wider web games market
 
-**Deadline: 15th Novemeber**
+**Deadline: 7th Novemeber**
 
 <!--
 The first assessment is the contextualising statement, which is a written report that demonstrates your critical understanding of the current web games market, including an analysis of existing games. This leads into the proposal for the game you intend to produce for the end of the module.
@@ -141,7 +131,7 @@ The conextualising statement is marked against the following criteria
 
 A completed web game prototype, with supporting documentation (written & video) that summarises planning, development, testing and potential routes to market. 
 
-**Deadline: 24th January**
+**Deadline: 14th January**
 
 <!-- 
 The playable protoype assessment is a completed web game that addresses the aims of the module. This game is accompanyied by supporting documentation that includes written and video components. 
@@ -165,27 +155,27 @@ The features you implement are up to you. However, you may wish to consider feat
 
 ## Development Document
 
-1,000 - 1,500 word including:
 
 - Title
 - Abstract
 - Pre-production Materials
+- Technical Description
 - User Testing & Feedback
 - Critical Reflection
 
 ## Walkthrough Video
 
-A video walkthrough and technical breakdown of your game. The technical breakdown should provide an overview of the key techical decisions you have made including use of constructs events & behaviours. The video should be between 5 - 10 minutes in length.
+A short video to serve as a professional showcase of your game. The video must demonstrate a full playthrough of the core gameplay loop, from the start screen to a clear end state (win or loss). 
 
 <!--
 Your prototype should be accompanied by supporting documentation which includes a written development document and a walkthrough video
 
 The development document should consist of...[Explain each element]
 
-The walkthrough video should do two things. Firstly demo your game, then secondly provide an overview of the technical implementation to explain how your use of constructs events and behaviours enables the final result.
+A short video to serve as a professional showcase of your game. The video must demonstrate a full playthrough of the core gameplay loop, from the start screen to a clear end state (win or loss). The recording should have clear audio and visuals to effectively present your work. While commentary is not required, you may include it to highlight specific game mechanics or design choices.
 
-The written development document should not exceed 1,500 words
-The video should not exceed 10 minutes
+The written development document should not exceed 2,000 words
+
 
 [EXPLAIN]
 -->
@@ -219,6 +209,8 @@ You can find a selection of example playable prototype developed by students in 
 <!-- _class: question -->
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # Questions?
+
+## Menti: xxxx-xxxx
 
 ---
 
@@ -273,6 +265,9 @@ Accessibility - Web games can be played anywhere. Meaning players can pick up an
 <!--
 Source: Newzoo Global Games Market Report 2023
 https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2023-free-version
+
+An updated report actually removes the Browser game slice which is now encompassed within PC games, accounting for an increase in this area
+https://newzoo.com/resources/blog/global-games-market-revenue-estimates-and-forecasts-in-2024
 -->
 
 ---
@@ -306,6 +301,8 @@ https://developers.facebook.com/success-stories/frvr/
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # Why are sites like Youtube and LinkedIn introducing games?
 
+## Menti: xxxx-xxxx
+
 <!--
 - Engagement
 - Monetisation
@@ -319,7 +316,7 @@ https://developers.facebook.com/success-stories/frvr/
 ![](../assets/icons/mobile.png#ico-right)
 # Web & Mobible Games
 
-## $92bn
+## $92bn+
 Estimated revenue for mobile games in 2023
 
 ## 1 in 2
@@ -391,6 +388,13 @@ For an overview of how web tools (specifically Flash in this instance) has shape
 Source: Newzoo Global Games Market Report 2023
 https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2023-free-version
 -->
+---
+<!-- _class: question -->
+![bg right:33% w:200](../assets/icons/conversation.png)
+# What made Wordle successful?
+
+## Menti: xxxx xxxx
+
 
 ---
 <!-- _class: break -->
@@ -411,6 +415,8 @@ _class: lead
 <!-- _class: question -->
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # Who Plays Games?
+
+## Menti - xxxx xxxx
 
 ---
 
@@ -434,6 +440,8 @@ https://newzoo.com/resources/blog/the-mainstream-gamer-persona-accounts-for-23-o
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # How does angry birds appeal to different personas?
 
+## Menti: xxxx xxxx
+
 <!-- 
 Use the whiteboard to answer this question
 
@@ -455,32 +463,32 @@ _class: lead
 # Critical Review
 
 ##
-Play the games linked in the week 1 materials on minerva and consider the following questions
+Play the games linked in the week 1 materials on Ultra and consider the following factors
 
-- What makes it compelling?
-- What could be improved?
+- Engagement
+- Design & Usability
+- Creativity
+- Areas for improvement
 
+Use the worksheet on Ultra to keep a record of your evaluations
+
+---
+
+<!-- _class: question -->
+![bg right:33% w:200](../assets/icons/conversation.png)
+# Which game was your favourite?
+
+## Menti: xxxx xxxx
 ---
 ![](../assets/icons/task-list.png#ico-right)
 # Task for next week
 
 Over the next week play some existing to gain inspiration and further develop ideas for what you may wish to develop during the module.
 
-From this review pick one game you particularly enjoyed to write a mini review. You should focus on what you think makes it particularly compelling but also giving consideration to what you think can be improved.
+From this review pick one game you particularly enjoyed to write a review using the framework introduced in the last task.
 
-You should add your review and a link to the game to the minerva discussions thread before next week's session.
+You should add your review and a link to the game to the discussions thread on Ultra before next week's session.
 
-<!--
-https://www.kongregate.com/
-
-https://www.miniclip.com/games/en/
-
-https://poki.com/
-
-https://www.construct.net/en/free-online-games
-
-https://gamesnacks.com
--->
 ---
 <!-- _class: main -->
 
