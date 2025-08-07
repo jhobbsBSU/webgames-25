@@ -485,7 +485,7 @@ Use the worksheet on Ultra to keep a record of your evaluations
 
 Over the next week play some existing to gain inspiration and further develop ideas for what you may wish to develop during the module.
 
-From this review pick one game you particularly enjoyed to write a review using the framework introduced in the last task.
+From this review pick one game you particularly enjoyed to write a review using the framework introduced in the last task and worksheet on Ultra.
 
 You should add your review and a link to the game to the discussions thread on Ultra before next week's session.
 
