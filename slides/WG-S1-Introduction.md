@@ -314,7 +314,7 @@ https://developers.facebook.com/success-stories/frvr/
 <!-- _class: threes -->
 
 ![](../assets/icons/mobile.png#ico-right)
-# Web & Mobible Games
+# Web & Mobile Games
 
 ## $92bn+
 Estimated revenue for mobile games in 2023
@@ -388,14 +388,6 @@ For an overview of how web tools (specifically Flash in this instance) has shape
 Source: Newzoo Global Games Market Report 2023
 https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2023-free-version
 -->
----
-<!-- _class: question -->
-![bg right:33% w:200](../assets/icons/conversation.png)
-# What made Wordle successful?
-
-## Menti: xxxx xxxx
-
-
 ---
 <!-- _class: break -->
 

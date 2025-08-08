@@ -1,15 +1,3 @@
 # Web Games
 
 * [S1 - Introduction](exports/WG-S1-Introduction.html)
-* [S2 - Design Princples](exports/WG-S2-Design-Principles.html)
-* [S3 - Intro to Construct](exports/WG-S3-Intro-to-Construct.html)
-* [S4 - Zombie Zap](exports/WG-S4-Zombie-Zap.html)
-* [S5 - Endless Runner](exports/WG-S5-Endless-Runner.html)
-* [S6 - Prototype Presentations](exports/WG-S6-Prototype-Proposals.html)
-* [S7 - Multiplayer](exports/WG-S7-Introducing-Multiplayer.html)
-* [S8 - Families & Mobile Controls](exports/WG-S8-Families-Mobile-Controls.html)
-* [S9 - Saving & Loading](exports/WG-S9-Saving-Loading.html)
-* [S10 - Sharing & Leaderboards](exports/WG-S10-Sharing-Leaderboards.html)
-* [S11 - Progress Presentations](exports/WG-S11-Progress-Presentations.html)
-* [S12 - Monetising & Publishing](exports/WG-S12-Monetisation-Publishing.html)
-* [S13 - Assessment Workshop](exports/WG-S13-Assessment-Workshop.html)
