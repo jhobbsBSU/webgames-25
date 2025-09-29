@@ -165,7 +165,7 @@ Further Reading: Modern Web Game Development - https://www.youtube.com/watch?v=a
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # What made Wordle succesful?
 
-## Menti: xxxx xxxx
+## Menti: 1138 5518
 
 <!--
 - Easy to pick up
@@ -305,7 +305,7 @@ What are your overall evaluations of the games you have played. Discuss your exp
 ![bg right:33% w:200](../assets/icons/conversation.png)
 # Game Review Reflection
 
-## Menti: xxxx xxxx
+## Menti: 1138 5518
 
 <!--
 Which game did you enjoy the most?
