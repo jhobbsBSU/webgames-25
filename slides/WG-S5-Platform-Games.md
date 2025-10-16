@@ -13,6 +13,17 @@ theme: webgames
 <!--
 Welcome to week 5
 -->
+---
+
+# Guest Talk with Philip Sinclair
+
+Join Creative Computing Commercial Games students for a Guest Talk from Philip Sinclair, founder of Spectrum 48 (spectrum48.com). Philip will be discussing the journey of their game OCO – from an idea to iOS ‘Game Of The Day’ worldwide and a million downloads as well as discussing their latest ventures.
+
+The talk takes place Tuesday, 21st October 3:30pm, CM.G32
+
+<!--
+Whilst scheduled in another module, this talk has high relevance to Web Games with OCO being a game that directly aligns with the module aims. Therefore I highly recommend attending if you can
+-->
 
 ---
 
