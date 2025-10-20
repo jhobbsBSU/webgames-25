@@ -163,6 +163,7 @@ Further Reading: Modern Web Game Development - https://www.youtube.com/watch?v=a
 <!-- _class: question -->
 
 ![bg right:33% w:200](../assets/icons/conversation.png)
+
 # What made Wordle succesful?
 
 ## Menti: 1138 5518
