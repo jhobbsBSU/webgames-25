@@ -19,7 +19,6 @@ Welcome to week X
 
 ![](../assets/icons/task-list.png#ico-right)
 # Objectives
-
 - Aim 1
 - Aim 2
 - Aim 3

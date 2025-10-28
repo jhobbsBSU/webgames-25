@@ -6,3 +6,6 @@
 - [S4 - Endless Runner](exports/WG-S4-Endless-Runner.html)
 - [S5 - Platformers](exports/WG-S5-Platform-Games.html)
 - [S6 - 3D & Multiplayer Features](exports/WG-S6-3D-Multiplayer.html)
+- [S7 - Prototyping](exports/WG-S7-Prototyping.html)
+- [S8 - Mobile Controls & Families](exports/WG-S8-Families-Mobile-Controls.html)
+- [S9 - Saving & Loading](exports/WG-S9-Saving-Loading.html)

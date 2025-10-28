@@ -80,6 +80,9 @@ section.break h1{
     font-size: 250px;
     color: #F5C014;
 }
+section.small-txt p, section.small-txt li{
+    font-size: 25px;
+}
 section.question{
     display: flex;
     align-items: center;
