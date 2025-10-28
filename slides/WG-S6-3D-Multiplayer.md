@@ -309,7 +309,7 @@ Use the remainder of the session for research & development:
 
 # Up Next...
 
-## Families & Mobile Controls
+## Prototyping
 
 <a style="text-decoration: underline; position: absolute; bottom: 40px; font-size: 20px; color: #272838;" href="https://www.flaticon.com" target="_blank" title="cloud service icons">Icons sourced from Flaticon</a>
 
