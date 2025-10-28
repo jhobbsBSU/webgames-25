@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/hougesen/mdsf/main/schemas/v0.10.7/mdsf.schema.json",
+  "languages": {
+    "c": "clang-format",
+    "cpp": "clang-format",
+    "csharp": "csharpier",
+    "css": "prettier",
+    "html": "prettier",
+    "javascript": "prettier",
+    "json": "prettier",
+    "markdown": "markdownlint-cli2",
+    "python": "ruff:format",
+    "rust": "rustfmt",
+    "shell": "shfmt",
+    "sql": [
+      [
+        "sqruff",
+        "sqlfluff:format"
+      ]
+    ],
+    "tex": "tex-fmt",
+    "toml": "tombi:format",
+    "typescript": "prettier",
+    "typst": "typstyle",
+    "yaml": "prettier",
+    "zig": "zig:fmt"
+  },
+  "language_aliases": {
+    "c++": "cpp",
+    "C++": "cpp",
+    "latex": "tex",
+    "md": "markdown",
+    "typ": "typst"
+  }
+}
