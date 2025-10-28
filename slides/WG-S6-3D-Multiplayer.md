@@ -133,7 +133,7 @@ https://www.construct.net/en/make-games/manuals/construct-3/plugin-reference/3d-
 
 <!-- _class: lead -->
 
-# 3. Multiplayer
+# 2. Multiplayer
 
 ---
 
@@ -239,7 +239,7 @@ Games end instantly if the host leaves, but other players can leave at anytime
 
 # Multiplayer Documentation
 
-The events, conditions and expressions that come with the multiplayer object are extensive and creating multiplayer games can become complex. 
+The events, conditions and expressions that come with the multiplayer object are extensive and creating multiplayer games can become complex.
 
 For further reading I recommend the official documentation on the multiplayer object, as well as the tutorials and further examples provided by Construct...
 
@@ -261,10 +261,15 @@ The demo materials include a video and commented Construct project file
 
 <!--
 
-In addition I have provided a commented version of “Battle Quiz” a multiplayer game developed during Game Jam 2020. This game adds a battle system to this quiz game we have just created. The functionality is inspired by a combination of the construct Multiplayer: chat room, Multiplayer: Real-time game, Multiplayer: pong examples
+[SHOW DEMO]
 
-[DEMO BATTLE QUIZ]
 -->
+---
+
+<!-- _class: lead -->
+
+# 3. Assessment Feedback
+
 ---
 
 ![](../assets/icons/assessment.png#ico-right)
