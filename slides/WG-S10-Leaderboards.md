@@ -67,6 +67,7 @@ In addition, Supabase adds authentication, so you can manage users securely, fil
 ![](../assets/icons/storage.png#ico-right)
 
 # Supabase Key Features
+
 - Full PostgreSQL database
 - REST & realtime APIs automatically generated
 - Authentication (email, OAuth, magic links)
@@ -90,6 +91,7 @@ Most importantly their is a generous free tier makes it accessible for small pro
 ![](../assets/icons/storage.png#ico-right)
 
 # Why Use Supabase for Games?
+
 - Leaderboards
 - Cloud save data
 - User profiles
