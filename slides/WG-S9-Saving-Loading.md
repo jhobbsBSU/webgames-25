@@ -134,8 +134,6 @@ In addition to showing how to create multiple save slots the video demonstrates 
 
 Use the remainder of the session to explore the demo materials and continue project development on your playable prototypes.
 
-During this time give consideration to what you want to show next week in the presentations
-
 ---
 
 <!-- _class: main -->
