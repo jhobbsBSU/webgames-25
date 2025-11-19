@@ -10,3 +10,5 @@
 - [S8 - Mobile Controls & Families](exports/WG-S8-Families-Mobile-Controls.html)
 - [S9 - Saving & Loading](exports/WG-S9-Saving-Loading.html)
 - [S10 - Leaderboards](exports/WG-S10-Leaderboards.html)
+- [S11 - Industry Insights](exports/WG-S11-Industry-Insights.html)
+- [S12 - Publishing & Submitting](exports/WG-S12-Publishing-Submitting.html)
