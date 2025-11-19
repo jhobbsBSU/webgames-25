@@ -9,3 +9,4 @@
 - [S7 - Prototyping](exports/WG-S7-Prototyping.html)
 - [S8 - Mobile Controls & Families](exports/WG-S8-Families-Mobile-Controls.html)
 - [S9 - Saving & Loading](exports/WG-S9-Saving-Loading.html)
+- [S10 - Leaderboards](exports/WG-S10-Leaderboards.html)
