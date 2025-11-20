@@ -180,7 +180,7 @@ More resources available on Ultra
 
 A completed web game prototype, with supporting documentation (written & video) that summarises planning, development, testing and potential routes to market.
 
-**Deadline: 16th January**
+**Deadline: 15th January**
 
 <!-- 
 The playable protoype assessment is a completed web game that addresses the aims of the module. This game is accompanyied by supporting documentation that includes written and video components. 
@@ -266,9 +266,9 @@ Please ensure you follow the submission requirements correctly. There will be ma
 ---
 ![](../assets/icons/assessment.png#ico-right)
 
-# Assessment Week Support
+# Assessment Support
 
-I will be on leave between 20th Dec - 5th Jan (inclusive), other than these dates I am available for assessment support ahead of the deadline on 16th January.
+I will be on leave between 20th Dec - 5th Jan (inclusive), other than these dates I am available for assessment support ahead of the deadline on 15th January.
 
 You can book this support using [this link](https://outlook.office.com/bookwithme/user/2898184395f04dcdaf2e79711f520ab4@bathspa.ac.uk?anonymous&ismsaljsauthenabled&ep=plink)
 
