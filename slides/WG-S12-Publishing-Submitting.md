@@ -15,6 +15,21 @@ theme: webgames
 Welcome to week X
 -->
 
+---
+<!-- _class: small-txt -->
+# Festive Student Social
+
+**When:** Tuesday 16th December, 12:30 – 14:30
+**Where:** CM.G10
+**Who:** All students on computing courses – you’re invited!
+
+Join us for some festive cheer before the holidays! There’ll be refreshments, good vibes, and a chance to relax and catch up with friends. Whether you’re feeling merry or just need a break from code, this is the perfect way to wrap up the term.
+
+✨ Bring your festive spirit (and maybe your best Christmas jumper)!
+
+We can’t wait to see you there!
+
+*P.S. From 3.30pm Creative Computing (Gaming) students will be showcasing their Commercial Games Project in CM.G32, come along and play test their game*
 
 ---
 
