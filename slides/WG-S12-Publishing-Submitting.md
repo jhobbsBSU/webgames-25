@@ -15,21 +15,6 @@ theme: webgames
 Welcome to week X
 -->
 
----
-<!-- _class: small-txt -->
-# Festive Student Social
-
-**When:** Tuesday 16th December, 12:30 – 14:30
-**Where:** CM.G10
-**Who:** All students on computing courses – you’re invited!
-
-Join us for some festive cheer before the holidays! There’ll be refreshments, good vibes, and a chance to relax and catch up with friends. Whether you’re feeling merry or just need a break from code, this is the perfect way to wrap up the term.
-
-✨ Bring your festive spirit (and maybe your best Christmas jumper)!
-
-We can’t wait to see you there!
-
-*P.S. From 3.30pm Creative Computing (Gaming) students will be showcasing their Commercial Games Project in CM.G32, come along and play test their game*
 
 ---
 
@@ -39,9 +24,7 @@ We can’t wait to see you there!
 
 - Explore options for monetising web games
 - Explore options for publishing web games
-- Learn how to implement custom loading screens
 - Overview submission requirements
-- Development & Play testing on projects
 
 <!--
 In today's session we will...
@@ -97,7 +80,7 @@ PWYW: PWYW stands for pay what you want, which can be a means of enabling the be
 ---
 <!-- _class: lead -->
 
-# 1. Publishing Games
+# 2. Publishing Games
 
 ---
 
@@ -161,32 +144,11 @@ More resources available on Ultra
 -->
 ---
 
-<!-- _class: lead -->
 
-# 3. Custom Loading Screens
-
----
-
-![](../assets/icons/loading.png#ico-right)
-
-# Customer Loader
-
-- Default loading screen is a Construct Splash
-- Can use loader layouts to display custom loading screen
-- When using a loader layout this still needs to load so keep it light
-- Let's see how to implement it...
-
----
-
-<!-- _class: break -->
-
-# Break
-
----
 
 <!-- _class: lead -->
 
-# 4. Playable Prototpe
+# 3. Playable Prototpe
 
 ---
 
@@ -287,37 +249,6 @@ Please ensure you follow the submission requirements correctly. There will be ma
 I will be on leave between 20th Dec - 5th Jan (inclusive), other than these dates I am available for assessment support ahead of the deadline on 15th January.
 
 You can book this support using [this link](https://outlook.office.com/bookwithme/user/2898184395f04dcdaf2e79711f520ab4@bathspa.ac.uk?anonymous&ismsaljsauthenabled&ep=plink)
-
----
-<!-- _class: lead -->
-
-# 5. Play testing
-
----
-
-![](../assets/icons/test.png#ico-right)
-
-# Test Preparation
-
-Time to play test each other's games and gather usability feedback that can be included in your development documents.
-
-You have **15 minutes** to get your game ready before we begin testing.
-
----
-
-# Peer Playtesting
-
-![](../assets/icons/test.png#ico-right)
-
-In small groups of 2-3 playtest each others prototype.
-
-- **When giving feedback consider:**
-  - *"I like..."* (what excites or intrigues you about the concept)
-  - *"I wonder..."* (what's unclear or needs more explanation)
-  - *"What if..."* (suggestions for features, mechanics or improvements)
-- **When observing:**
-  - Observe how testers interact with your prototype
-  - Take notes on what works and what doesn't
 
 ---
 
