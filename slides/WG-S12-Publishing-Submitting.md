@@ -277,6 +277,19 @@ Use the remainder of the session to continue working on your playable protoypes 
 
 ---
 
+# End of Module Evaluation
+
+Please take some time to complete end of module evaluation. 
+
+This link should provide access to feedback forms for all modules you are enrolled in:
+
+[https://go.blueja.io/CRPb35V6g0i_Q6kGhFjuzQ](https://go.blueja.io/CRPb35V6g0i_Q6kGhFjuzQ)
+
+<!--
+[GIVE TIME FOR STUDENTS TO COMPLETE]
+-->
+---
+
 <!-- _class: main -->
 
 # Up Next...
